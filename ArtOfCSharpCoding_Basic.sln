@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_02_12_resource", "Ch_02_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_02_13_delegate", "Ch_02_13_delegate\Ch_02_13_delegate.csproj", "{E0D3067B-3972-482D-A937-0C83DAD94A16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_04_04_Too_many_query", "Ch_04_04_Too_many_query\Ch_04_04_Too_many_query.csproj", "{9DBB87D9-6145-464E-8E2C-05FC7F13092E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E0D3067B-3972-482D-A937-0C83DAD94A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0D3067B-3972-482D-A937-0C83DAD94A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0D3067B-3972-482D-A937-0C83DAD94A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBB87D9-6145-464E-8E2C-05FC7F13092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBB87D9-6145-464E-8E2C-05FC7F13092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBB87D9-6145-464E-8E2C-05FC7F13092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBB87D9-6145-464E-8E2C-05FC7F13092E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
