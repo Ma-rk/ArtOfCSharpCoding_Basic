@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_01_18_IDisposable", "Ch_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_01_26_virtual", "Ch_01_26_virtual\Ch_01_26_virtual.csproj", "{69E488AC-5A9E-4EC0-AA9A-1B0C0F3A411A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch_02_12_resource", "Ch_02_12_resource\Ch_02_12_resource.csproj", "{644EEF43-D4FC-4976-9DFD-CE3BE2A887C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{69E488AC-5A9E-4EC0-AA9A-1B0C0F3A411A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69E488AC-5A9E-4EC0-AA9A-1B0C0F3A411A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69E488AC-5A9E-4EC0-AA9A-1B0C0F3A411A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644EEF43-D4FC-4976-9DFD-CE3BE2A887C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644EEF43-D4FC-4976-9DFD-CE3BE2A887C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644EEF43-D4FC-4976-9DFD-CE3BE2A887C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644EEF43-D4FC-4976-9DFD-CE3BE2A887C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
